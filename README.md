@@ -117,4 +117,5 @@ Built with **Tableau relationships**, **LOD calculations**, and **dynamic intera
 
 ---
 
-
+## 🙌 Acknowledgements
+Thanks to Corporate Finance Institute® (CFI) for designing this comprehensive case study as part of the BIDA – Business Intelligence & Data Analysis course.
